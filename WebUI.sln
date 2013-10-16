@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebUITest", "WebUITest\WebUITest.vcxproj", "{1AFB2964-644F-4F3B-844A-5BE71646C08D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebUI", "WebUI\WebUI.vcxproj", "{663E7904-51E7-475B-98D5-86CC3EDBBF55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFB2964-644F-4F3B-844A-5BE71646C08D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1AFB2964-644F-4F3B-844A-5BE71646C08D}.Debug|Win32.Build.0 = Debug|Win32
+		{1AFB2964-644F-4F3B-844A-5BE71646C08D}.Release|Win32.ActiveCfg = Release|Win32
+		{1AFB2964-644F-4F3B-844A-5BE71646C08D}.Release|Win32.Build.0 = Release|Win32
+		{663E7904-51E7-475B-98D5-86CC3EDBBF55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{663E7904-51E7-475B-98D5-86CC3EDBBF55}.Debug|Win32.Build.0 = Debug|Win32
+		{663E7904-51E7-475B-98D5-86CC3EDBBF55}.Release|Win32.ActiveCfg = Release|Win32
+		{663E7904-51E7-475B-98D5-86CC3EDBBF55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
